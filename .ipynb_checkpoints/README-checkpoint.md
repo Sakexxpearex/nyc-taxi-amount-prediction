@@ -6,7 +6,7 @@ Este proyecto utiliza técnicas de Machine Learning para predecir el valor de la
 
 ## 📂 Dataset
 
-- **Fuente:** Kaggle – [NYC Taxi Trip Records Jan-Jun 2023](https://www.kaggle.com/datasets/nyctaxi/nyc-taxi-trip-data-2023)
+- **Fuente:** Kaggle – [NYC Taxi Trip Records Jan-Jun 2023](https://www.kaggle.com/datasets/nagasai524/nyc-taxi-trip-records-from-jan-2023-to-jun-2023)
 - **Tamaño:** ~20 millones de registros (se trabajó con una muestra)
 - **Variables:** incluye hora, lugar de recogida y bajada, distancia, tipo de tarifa, entre otras.
 
